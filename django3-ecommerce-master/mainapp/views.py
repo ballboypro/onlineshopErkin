@@ -53,7 +53,7 @@ class CategoryDetailView(CartMixin, DetailView):
 class AddToCartView(CartMixin, View):
 
     def get(self, request, *args, **kwargs):
-        product_slug =  kwargs.get('slug')
+        product_slug = kwargs.get('slug')
         print(product_slug)
         product = Product.objects.get(slug=product_slug)
         cart_product, created = CartProduct.objects.get_or_create(
