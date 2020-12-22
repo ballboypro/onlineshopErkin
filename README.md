@@ -1,6 +1,6 @@
 # onlineshopErkin
 Online shop. Where you can buy some electronic gadjets.
-Youtub my video presentation
+Youtube my video presentation
 https://youtu.be/TuQuk6dZyGw
 Feedbacks
 https://drive.google.com/drive/u/1/my-drive
