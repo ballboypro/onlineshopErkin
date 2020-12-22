@@ -3,7 +3,7 @@ Online shop. Where you can buy some electronic gadjets.
 Youtube my video presentation
 https://youtu.be/TuQuk6dZyGw
 Feedbacks
-https://drive.google.com/drive/u/1/my-drive
+https://drive.google.com/drive/folders/1sRTH0Cgq4a12NJaQk-1wxtPGz9jrqylP?usp=sharing
 
 ![adminpanel](https://user-images.githubusercontent.com/73142059/102810684-59096f00-43ee-11eb-94d9-7b6ed9e2ff47.png)
 ![darksitecartscreen](https://user-images.githubusercontent.com/73142059/102810706-5f97e680-43ee-11eb-882f-5ff445ac04ae.png)
